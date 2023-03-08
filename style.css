@@ -796,7 +796,7 @@ ul.menu-section li ul:first-child{
   /* ___________FOOTER-SECTION-______________ */
 
   .footer-section{
-    background: rgb(0, 9, 10);
+    background: rgb(#000);
     padding: 80px;
     
   }
